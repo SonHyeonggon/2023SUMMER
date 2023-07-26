@@ -33,7 +33,7 @@
   background-image: url("../../testimg/logo.png");
   background-repeat: no-repeat;
   background-color:transparent;
-  margin-left: 10px;
+  margin-left: 30px;
   margin-top:10px;
   border:none;
 }
@@ -55,10 +55,10 @@
   width:110px;
   height:35px;
   background-color:#aaaaaa;
-  border-radius: 7px;
+  border-radius: 0px;
   margin-top:15px;
   margin-right:30px;
-  border-width: 1px;
+  border-width: 0px;
 }
 .next-login{
   visibility: hidden;

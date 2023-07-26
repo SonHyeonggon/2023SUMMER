@@ -19,12 +19,15 @@
     margin-right:auto;
 }
 .search-img{
-    background-image: url(../../testimg/magnifier.png);
+    background-image: url(../../testimg/search-logo-2-fixed2.png);
+    background-color:white;
     background-repeat: no-repeat;
+    background-position:center;
     height: 70px;
     width:70px;
     border-width : 1px;
-    transform: scale(0.8);
+    scale:calc(0.77);
+
 }
 .search-space{
     height:50px;
